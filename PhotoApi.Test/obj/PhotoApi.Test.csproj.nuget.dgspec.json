@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Test\\PhotoApi.Test.csproj": {}
+  },
+  "projects": {
+    "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.DataAccess\\PhotoApi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.DataAccess\\PhotoApi.DataAccess.csproj",
+        "projectName": "PhotoApi.DataAccess",
+        "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.DataAccess\\PhotoApi.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\刘俊杰\\.nuget\\packages\\",
+        "outputPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\刘俊杰\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj": {
+                "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj",
+        "projectName": "PhotoApi.Model",
+        "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj",
+        "packagesPath": "C:\\Users\\刘俊杰\\.nuget\\packages\\",
+        "outputPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\刘俊杰\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "WalkingTec.Mvvm.Core": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Test\\PhotoApi.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Test\\PhotoApi.Test.csproj",
+        "projectName": "PhotoApi.Test",
+        "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Test\\PhotoApi.Test.csproj",
+        "packagesPath": "C:\\Users\\刘俊杰\\.nuget\\packages\\",
+        "outputPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\刘俊杰\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\2021 毕业设计\\PhotoApi\\PhotoApi\\PhotoApi.csproj": {
+                "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi\\PhotoApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.ViewModel\\PhotoApi.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.ViewModel\\PhotoApi.ViewModel.csproj",
+        "projectName": "PhotoApi.ViewModel",
+        "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.ViewModel\\PhotoApi.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\刘俊杰\\.nuget\\packages\\",
+        "outputPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\刘俊杰\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj": {
+                "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\2021 毕业设计\\PhotoApi\\PhotoApi\\PhotoApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi\\PhotoApi.csproj",
+        "projectName": "PhotoApi",
+        "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi\\PhotoApi.csproj",
+        "packagesPath": "C:\\Users\\刘俊杰\\.nuget\\packages\\",
+        "outputPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\刘俊杰\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.DataAccess\\PhotoApi.DataAccess.csproj": {
+                "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.DataAccess\\PhotoApi.DataAccess.csproj"
+              },
+              "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj": {
+                "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.Model\\PhotoApi.Model.csproj"
+              },
+              "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.ViewModel\\PhotoApi.ViewModel.csproj": {
+                "projectPath": "E:\\2021 毕业设计\\PhotoApi\\PhotoApi.ViewModel\\PhotoApi.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0-rc4, )"
+            },
+            "WalkingTec.Mvvm.Mvc.Admin": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            },
+            "WalkingTec.Mvvm.TagHelpers.LayUI": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
